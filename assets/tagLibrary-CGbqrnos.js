@@ -1,1 +1,0 @@
-import{y as s,l as u}from"./index-Cc-2jhBt.js";const n=s("tagLibrary",()=>{const e=u(["女装","男装","户外","防晒","通勤","包袋","鞋","新品"]);function t(a){const r=a.trim();r&&!e.value.includes(r)&&e.value.push(r)}function o(a){e.value.splice(a,1)}return{tags:e,addTag:t,removeTag:o}});export{n as u};
